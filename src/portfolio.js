@@ -34,7 +34,7 @@ const greeting = {
 
 const socialMediaLinks = {
   github: "https://github.com/daminiborude",
-  linkedin: "www.linkedin.com/in/damini-borude-777ba6215",
+  linkedin: "https://www.linkedin.com/in/damini-borude",
   gmail: "daminiborude20@gmail.com",
   display: true // Set true to display this section, defaults to false
 };
